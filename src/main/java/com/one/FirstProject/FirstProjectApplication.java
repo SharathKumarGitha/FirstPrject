@@ -15,7 +15,9 @@ public class FirstProjectApplication {
 		System.out.println("this is simple springboot app....please check once");
 		
 		
-		System.out.println("This is sample boot project.......");
+		
+		
+		System.out.println("this is first project......");
 		
 		
 	}
